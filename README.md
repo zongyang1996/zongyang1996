@@ -1,7 +1,7 @@
 # Hi, I'm Yuzu 👋
 
 ### English
-I’m an ex-B端 operation specialist transitioning to AI Product.
+I’m a B-end operation specialist transitioning to AI Product.
 I don’t have a professional coding background, but leverage AI agents & low-code tools like Dify to turn business insights and personal thoughts into usable AI systems.
 
 Unlike pure AI builders or theoretical thinkers, I’m an AI Self-Explorer: my core focus is figuring out what unique human value we retain in the AI era, and building human-centered AI workflows.
